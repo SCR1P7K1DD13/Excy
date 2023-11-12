@@ -21,7 +21,7 @@ Excy is a Python tool designed to streamline the process of comparing and extrac
 This project is licensed under the [MIT License](link-to-license), making it open for collaboration and use.
 
 **Get Started:**
-Visit the [Wiki](link-to-wiki) for detailed documentation and usage instructions.
+Visit the [Wiki](https://github.com/SCR1P7K1DD13/Excy/wiki) for detailed documentation and usage instructions.
 
 Happy Excying!
 
