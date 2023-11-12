@@ -1,4 +1,4 @@
-# Excy
+#🐙 Excy
 
 **Description:**
 Excy is a Python tool designed to streamline the process of comparing and extracting data from Excel files. Whether you need to find common elements between two datasets or quickly identify matches, Excy has you covered. With a user-friendly interface and powerful functionality, it simplifies the task of working with Excel data, making data comparison and extraction a breeze.
